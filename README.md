@@ -20,11 +20,9 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
 <a href="https://www.facebook.com/profile.php?id=100006700655343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stoyan.stoyanov931" height="30" width="40" /></a>
 <a href="https://www.instagram.com/koprinkovw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoyan.stoyanov931" height="30" width="40" /></a></a>
 
-<h3 align="left">languages and tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://as2.ftcdn.net/v2/jpg/02/32/40/11/1000_F_232401133_1lZXBTV47ewVua02TdEPHrad5HwfnOEf.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvfXnNyB1HacT6EgBLYkRwBXnPa9GSYd_zjyWtDbzw&s"></code>
-<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"></code>
