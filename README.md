@@ -11,7 +11,7 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
 <p>⚡Whether it's coding, debugging, or brainstorming innovative solutions, I'm always up for the challenge!</p>
 
 
-<img style="border-radius:18px;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="510" height="348"/>
+<img style="border-radius:15px;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="510" height="348"/>
 
 <p>
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +29,4 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petar-Koprinkov&layout=compact&theme=radical&hide_border=true)
 
+  
