@@ -14,7 +14,14 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-**languages and tools:**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/petar-koprinkov-1a809227a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stoyan-stoyanov-65276b294" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006700655343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stoyan.stoyanov931" height="30" width="40" /></a>
+<a href="https://www.instagram.com/koprinkovw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoyan.stoyanov931" height="30" width="40" /></a></a>
+
+<h3 align="left">languages and tools:</h3>
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://as2.ftcdn.net/v2/jpg/02/32/40/11/1000_F_232401133_1lZXBTV47ewVua02TdEPHrad5HwfnOEf.jpg"></code>
