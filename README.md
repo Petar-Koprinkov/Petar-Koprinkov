@@ -11,7 +11,7 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
 <p>⚡Whether it's coding, debugging, or brainstorming innovative solutions, I'm always up for the challenge!</p>
 
 
-<img style="border-radius:15px;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="510" height="348"/>
+<img style="border-radius:15px;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="510" height="344"/>
 
 <p>
 <h3 align="left">Connect with me:</h3>
