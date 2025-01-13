@@ -5,7 +5,7 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
 <h2>About Me</h2>
 <p>💻 As a junior developer, I'm excited to embark on this journey of exploration, experimentation, and continuous improvement.</p>
 <p>🎓 I have a strong desire to expand my knowledge and skills in various domains of technology.</p>
-<p>🤖 I'm particularly fascinated by the realms of artificial intelligence and cybersecurity, and I'm eager to delve deeper into these fields.</p>
+<p>🤖 I'm particularly fascinated by the realms of web development, artificial intelligence and machine learning, and I'm eager to delve deeper into these fields.</p>
 <p>🔍 Exploring new concepts, tackling challenges, and collaborating with fellow enthusiasts are among my favorite pursuits.</p>
 <p>📚 I firmly believe in the power of lifelong learning and am committed to honing my craft every step of the way.</p>
 <p>⚡Whether it's coding, debugging, or brainstorming innovative solutions, I'm always up for the challenge!</p>
