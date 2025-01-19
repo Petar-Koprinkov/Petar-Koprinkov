@@ -27,7 +27,7 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="postgreSQL" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src=https://avatars.githubusercontent.com/u/18133?s=280&v=4 alt="GIT" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src=https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png alt="Django" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src=https://console.kamatera.com/assets/images/os/os_django.png alt="Django" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png alt="Docker" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s alt="Pandas" width="40" height="40"/> </a>
 </p>
