@@ -31,6 +31,8 @@ Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/42
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png alt="Docker" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s alt="Pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src=https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg alt="NumPy" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src=https://cdn.prod.website-files.com/5f10ed4b2ae6bc09c03f5d7a/64959d5f65a257fb51a4259c_github.png alt="GitHub" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src=https://miro.medium.com/v2/resize:fit:800/1*oGzWo-p9tUbA8FiUouMZ0Q.png alt="Jenkins" width="40" height="40"/> </a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petar-Koprinkov&layout=compact&theme=radical&hide_border=true)
